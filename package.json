@@ -1,0 +1,14 @@
+{
+  "name": "book-spiral",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "tsc && node"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.16.0",
+    "typescript": "^5.0.4"
+  }
+}
